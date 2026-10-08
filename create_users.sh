@@ -11,4 +11,4 @@ do
     sudo useradd -m "$username"
 done
 
-echo "Successfully created users"
+echo "Successfully created the users"

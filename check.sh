@@ -4,7 +4,7 @@
 
 read -rp "Enter User 1 name: " user1
 read -rp "Enter User 2 name: " user2
-read -rp "Enter User 2 name: " user3
+read -rp "Enter User 3 name: " user3
 
 usernames=($user1 $user2 $user3)
 
